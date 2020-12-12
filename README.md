@@ -1,4 +1,4 @@
-### Hi there , I'm Ritam ❣️ 👋
+### ello ello, I'm Ritam ❣️ 👋
 
 - 👑 I love making things - the satisfaction of writing code to make something beautiful on screen is second-to-none
 - 🔭 I’m currently working on [Ongaku](https://github.com/ritammv/ongaku), a music sharing community app
