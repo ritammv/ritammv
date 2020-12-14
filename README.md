@@ -3,7 +3,7 @@
 - 👑 I love making things - the satisfaction of writing code to make something beautiful on screen is second-to-none
 - 🔭 I’m currently working on [Ongaku](https://github.com/ritammv/ongaku), a music sharing community app
 - 🌱 I’m currently learning more React, Redux and Typescript
-- 💬 Ask me about ... anything! I'm an ex dentist turned developer, both of these things have led me to have great communication skills and problem solving ability.
+- 💬 Hit me up for open source collabs. 
 <br />
 
 <h3 align="left">Technologies I ❤️</h3>
